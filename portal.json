@@ -1,0 +1,9 @@
+{
+  "title": "Offline-AI",
+  "description": "Offline language models running entirely in the browser.",
+  "icon": "OA",
+  "color": "#8b5cf6",
+  "order": 21,
+  "access": "public",
+  "url": "https://pixytech.github.io/Offline-AI/"
+}
